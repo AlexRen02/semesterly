@@ -45,4 +45,5 @@ SECRETS = {
     'EMAIL_HOST_USER': None,
     'EMAIL_HOST_PASSWORD': None,
     'EMAIL_PASSWORD': None
+    'JHU_API_KEY': '91499',
 }
